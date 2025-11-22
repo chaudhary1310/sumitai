@@ -1,0 +1,4 @@
+{
+    "lldb.launch.terminal": "external",
+    "prisma.pinToPrisma6": false
+}
