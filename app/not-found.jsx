@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 "use client";
+=======
+"use client"
+>>>>>>> a0b16d9cd842c3d8442c35901e70fcf77e9a9397
 import Link from "next/link";
 import React from "react";
 import { Button } from "@/components/ui/button";
